@@ -38,18 +38,12 @@ For this project, I've have used Python 3.7.3 and the following Python libraries
 
 ##### 1. In which months are most Airbnb listings still available (total and by room type)?
 
-February 2021 is the month with the highest availability rate, followed by January 2021 and March 2021. This makes sense, if you think of the current Corona situation.      People hesitate to book a room soon. October 2021 is the busiest month regarding the availability rate. People look forward to go to the Octoberfest again.
-
-If we have a look at the availability rate by room type, we can see that entire home/apartments, private rooms and shared rooms also have the highest availability rate in January, February, and March 2021. Only hotel rooms are slightly more booked in January 2021 compared to the other months - availability rate is only 0.9%.
-
+February 2021 is the month with the highest availability rate, followed by January 2021 and March 2021. If we have a look at the availability rate by room type, we can see that entire home/apartments, private rooms and shared rooms also have the highest availability rate in January, February, and March 2021. Only hotel rooms are slightly more booked in January 2021 compared to the other months.
 
 ##### 2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
 
-Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639, 81243, 80636, 80686) are placed in the West of Munich. These areas have very good traffic connections to the inner city as well as to the Oktoberfest. The only exception is zip code 81545, which is placed in the South of Munich. One reason might be the good location near to the forest Perlacher Forst. 
+Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639, 81243, 80636, 80686) are placed in the West of Munich. The only exception is zip code 81545, which is placed in the South of Munich.
 
-Please note, that all areas have an average total rating above 90. Zip codes with less than 10 ratings in total were excluded from the analysis.
-
- 
 ##### 3. Do cheaper listings have a lower rating compared to expensive listings? 
 
 The results show that there is no correlation between price and total review score. Many listings in the lower price range also have very high ratings. 
