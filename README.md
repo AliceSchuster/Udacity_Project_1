@@ -14,7 +14,7 @@ Using the Munich Airbnb dataset, this project aims to answer three questions of 
 
 ## Files
 
-The following project uses data from the Munich AirBnB dataset: http://insideairbnb.com/get-the-data.html (date: 24th of December, 2020)
+The following project uses data from the Munich AirBnB dataset: http://insideairbnb.com/get-the-data.html 
 
 The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project.
 
@@ -39,5 +39,6 @@ shapely == 1.6.4
 1. In which months are most Airbnb listings still available (total and by room type)?
 
 2. In which Munich areas (zip codes) are the best airbnb listings (according to total rating)?
-3. Do less expensive listings have a lower rating compared to expensive listings? 
+3. 
+4. Do less expensive listings have a lower rating compared to expensive listings? 
 
