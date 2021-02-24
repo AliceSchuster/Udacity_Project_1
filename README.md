@@ -42,7 +42,7 @@ February 2021 is the month with the highest availability rate, followed by Janua
 
 ##### 2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
 
-Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639, 81243, 80636, 80686) are placed in the West of Munich. The only exception is zip code 81545, which is placed in the South of Munich.
+Most of the highest rated areas (zip codes with a rating above 97: 81373, 80639, 81243, 80636, 80686) are placed in the West of Munich. The only exception is zip code 81545, which is placed in the South of Munich.
 
 ##### 3. Do cheaper listings have a lower rating compared to expensive listings? 
 
