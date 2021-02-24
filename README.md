@@ -48,7 +48,5 @@ Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639
 
 The results show that there is no correlation between price and total review score. Many listings in the lower price range also have very high ratings. 
 
-## Blog article
-
-If you are interested to learn more, please visit my blog article.
+##### If you are interested to learn more, please visit my blog article.
 
