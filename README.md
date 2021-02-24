@@ -3,7 +3,7 @@
 
 ## Motivation
 
-The following project has been created as part of the [Udacity Data Science Nanodegree] (https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+The following project has been created as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 Using the Munich Airbnb dataset, this project aims to answer three questions of interest:
 
