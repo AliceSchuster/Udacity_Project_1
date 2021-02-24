@@ -9,7 +9,7 @@ Using the Munich Airbnb dataset, this project aims to answer the following three
 
 ##### 1. In which months are most Airbnb listings still available (total and by room type)?
 ##### 2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
-##### 3. Do less expensive listings have a lower rating compared to expensive listings? 
+##### 3. Do cheaper listings have a lower rating compared to expensive listings? 
 
 
 ## Files
