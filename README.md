@@ -38,6 +38,10 @@ For this project, I've have used Python 3.7.3 and the following Python libraries
 
 1. In which months are most Airbnb listings still available (total and by room type)?
 
+February 2021 is the month with the highest availablity, followed by January 2021 and March 2021. This makes sense, if you think of the current Corona situation. People hesitate to book a room soon. October 2021 is the busiest month regarding the availablity rate. People look forward to go to the Octoberfest again.
+
+If we have a look at the availability rate by room type, we can see that entire home/apartments, private rooms and shared rooms also have the hightest availability rate in February 2021, followed by January 2021 and March 2021. Only hotel rooms are slightly more booked in January 2021 compared to the other months - availability rate is only 0.9%.
+
 2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
 
 3. Do less expensive listings have a lower rating compared to expensive listings? 
