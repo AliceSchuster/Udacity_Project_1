@@ -21,7 +21,7 @@ The analysis includes detailed listings data (download: listings.csv.gz) as well
 The udacity_project_1.ipynb  - Jupyter notebook includes the full project analysis for all three questions.
 
 
-##Installation
+## Installation
 
 For this project, I've have used Python 3.7.3 and the following Python libraries:
 
@@ -34,7 +34,7 @@ seaborn=0.11.0
 shapely == 1.6.4
 
 
-##Results
+## Results
 
 1. In which months are most Airbnb listings still available (total and by room type)?
 
