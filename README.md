@@ -8,13 +8,13 @@ The following project has been created as part of the [Udacity Data Science Nano
 Using the Munich Airbnb dataset, this project aims to answer the following three questions of interest:
 
 1. In which months are most Airbnb listings still available (total and by room type)?
-2. In which Munich areas (zip codes) are the best airbnb listings (according to total rating)?
+2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
 3. Do less expensive listings have a lower rating compared to expensive listings? 
 
 
 ## Files
 
-This project uses data from the [Munich AirBnB dataset](http://insideairbnb.com/get-the-data.html) 
+This project uses data from the [Munich Airbnb dataset](http://insideairbnb.com/get-the-data.html) 
 
 The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project.
 
@@ -38,7 +38,7 @@ For this project, I've have used Python 3.7.3 and the following Python libraries
 
 1. In which months are most Airbnb listings still available (total and by room type)?
 
-2. In which Munich areas (zip codes) are the best airbnb listings (according to total rating)?
+2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
 
 3. Do less expensive listings have a lower rating compared to expensive listings? 
 
