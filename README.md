@@ -16,7 +16,7 @@ Using the Munich Airbnb dataset, this project aims to answer the following three
 
 This project uses data from the [Munich Airbnb dataset](http://insideairbnb.com/get-the-data.html) (date compiled: 24th of December 2020)
 
-The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project. For plooting our data (see question 2), I've also downloaded the postcode maps (plz-5stellig.shp) from [this website](https://www.suche-postleitzahl.org/plz-karte-erstellen).  
+The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project. For plotting our data (see question 2), I've also downloaded the postcode maps (file plz-5stellig.shp) from [this website](https://www.suche-postleitzahl.org/plz-karte-erstellen).  
 
 The udacity_project_1.ipynb  - Jupyter notebook includes the full project analysis for all three questions.
 
