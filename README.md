@@ -14,7 +14,7 @@ Using the Munich Airbnb dataset, this project aims to answer the following three
 
 ## Files
 
-This project uses data from the [Munich Airbnb dataset](http://insideairbnb.com/get-the-data.html) 
+This project uses data from the [Munich Airbnb dataset](http://insideairbnb.com/get-the-data.html) (date compiled: 24th of December 2020)
 
 The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project.
 
