@@ -26,6 +26,7 @@ The udacity_project_1.ipynb  - Jupyter notebook includes the full project analys
 For this project, I've have used Python 3.7.3 and the following Python libraries:
 
 altair==4.1.0
+
 geopandas==0.8.2
 matplotlib==3.3.2
 numpy==1.19.4
