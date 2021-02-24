@@ -9,14 +9,14 @@ Using the Munich Airbnb dataset, this project aims to answer the following three
 
 ##### 1. In which months are most Airbnb listings still available (total and by room type)?
 ##### 2. In which Munich areas (zip codes) are the best Airbnb listings (according to total rating)?
-##### 3. Do less expensive listings have a lower rating compared to expensive listings? 
+##### 3. Do cheaper listings have a lower rating compared to expensive listings? 
 
 
 ## Files
 
 This project uses data from the [Munich Airbnb dataset](http://insideairbnb.com/get-the-data.html) (date compiled: 24th of December 2020)
 
-The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project. For plotting our data (see question 2), I've also downloaded the postcode maps (file plz-5stellig.shp) from [this website](https://www.suche-postleitzahl.org/plz-karte-erstellen).  
+The analysis includes detailed listings data (download: listings.csv.gz) as well as detailed calendar data for listings (download: calendar.csv.gz). The unzipped data are stored in the Data folder of this project. For plotting the data (see question 2), I've also downloaded the postcode maps (files plz-5stellig.shp, plz-5stellig.shx, plz-5stellig.dbf, and plz-5stellig.dbf) from [this website](https://www.suche-postleitzahl.org/plz-karte-erstellen).  
 
 The udacity_project_1.ipynb  - Jupyter notebook includes the full project analysis for all three questions.
 
@@ -48,7 +48,5 @@ Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639
 
 The results show that there is no correlation between price and total review score. Many listings in the lower price range also have very high ratings. 
 
-## Blog article
-
-If you are interested to learn more, please visit my blog article.
+##### If you are interested to learn more, please visit my blog article.
 
