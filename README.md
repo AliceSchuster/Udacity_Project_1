@@ -46,7 +46,7 @@ Most of the highest rated areas (zip codes with a rating above 97%: 81373, 80639
 
 ##### 3. Do cheaper listings have a lower rating compared to expensive listings? 
 
-The results show that there is no correlation between price and total review score. Many listings in the lower price range also have very high ratings. 
+The results show that there is hardly no correlation between price and total review score. Many listings in the lower price range also have very high ratings. 
 
 ##### If you are interested to learn more, please visit my blog article.
 
