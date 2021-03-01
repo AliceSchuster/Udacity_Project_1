@@ -33,6 +33,9 @@ For this project, I've have used Python 3.7.3 and the following Python libraries
 - seaborn==0.11.0
 - shapely==1.6.4
 
+## License
+This project is released under the terms of the MIT license, and thus free for commercial and research use. See [LICENSE](LICENSE) for details.
+
 
 ## Results
 
